@@ -8,6 +8,8 @@ It's my project template :)
 2. `cd grunt-bower-requirejs-boilerplate`
 3. `npm install`
 4. `bower install`
+5. `git submodule init`
+6. `git submodule update`
 
 ## Grunt tasks
 
