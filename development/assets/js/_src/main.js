@@ -1,15 +1,15 @@
 /*!
  * main.js
  *
- * @modified 2013/05/10
+ * @modified 2013/06/14
  *
  */
 
 require.config({
 	paths: {
-		'jquery': '../vendor/jquery/jquery',
-		'jquery-ui': '../vendor/jquery-ui/ui/jquery.ui.widget',
-		'jquery-easing': '../vendor/jquery-easing/jquery.easing'
+		'jquery': '../vendor/jquery.min/index',
+		'jquery-ui': '../vendor/jquery.ui.widget/index',
+		'jquery-easing': '../vendor/jquery.easing.min/index'
 	},
 	shim: {
 		'jquery-ui': {
